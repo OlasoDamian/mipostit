@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&display=swap');
+header .nav{
+    color: white !important;
+}
+.marca{
+    font-family: 'Cherry Bomb One', cursive;
+}
+.logo{
+    font-size: 2rem;
+    margin-left: 5px;
+    text-decoration: none;
+    color: white;
+}
+.post-it {
+    background-color: rgb(255, 255, 96);
+    border: 2px solid #FFC107;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+  
+  .card-header {
+    padding: 0.5rem;
+    background-color: transparent;
+  }
+  
+  .close {
+    float: right;
+    font-size: 1.5rem;
+    font-weight: 700;
+    line-height: 1;
+    color: #000;
+    opacity: 0.5;
+  }
+  
+  .close:hover {
+    color: #000;
+    opacity: 0.8;
+  }
+  
+  .card-title {
+    font-weight: bold;
+  }
+  
+  .card-text {
+    margin-bottom: 0;
+  }
+  .activo{
+    text-shadow: 1px 1px 2px #FFC107;
+  }
+  .close{
+    font-size: 2rem;
+  }
+
