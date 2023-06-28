@@ -17,6 +17,24 @@ header .nav{
     text-decoration: none;
     color: white;
 }
+.color-primario{
+    background-color: #FFC107 !important;
+}
+.color-secundario{
+    background-color: rgb(252, 252, 158);
+}
+.color-borde{
+  border: 2px solid #FFC107;
+  padding: 0px;
+  box-shadow: 10px 10px 15px #312e2e;
+}
+.modal-header{
+  border-radius: 0;
+  margin-left: 0px auto;
+  margin-right: 0px auto;
+  margin-top: 0px auto;
+  margin-bottom: 0px auto;
+}
 .post-it {
     background-color: rgb(255, 255, 96);
     border: 2px solid #FFC107;
@@ -53,7 +71,5 @@ header .nav{
   .activo{
     text-shadow: 1px 1px 2px #FFC107;
   }
-  .close{
-    font-size: 2rem;
-  }
+
 
