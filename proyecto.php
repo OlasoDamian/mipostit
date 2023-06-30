@@ -12,7 +12,6 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
   <body>
-
     <header class="d-flex flex-wrap align-items-center justify-content-center justify-content-md-between py-3 mb-4 border-bottom text-bg-dark">
       <div class="col-md-3 mb-2 mb-md-0">
         <a href="/" class="d-inline-flex text-decoration-none marca logo">
