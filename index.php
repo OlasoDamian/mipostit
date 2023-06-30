@@ -33,39 +33,6 @@
       </div>
     </header>
     <div class="container">
-      <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-          <div class="carousel-item">
-            <img src="assets/images/ordenado.jpeg" alt="Hugo usando la webapp" class="carousel-image">
-            <div class="carousel-caption">
-              <h3>Hugo está en control y organizado con nuestra webapp de post-it</h3>
-              <p>Observa a Hugo, sonriendo mientras utiliza nuestra webapp para gestionar sus tareas y proyectos. Con nuestra herramienta intuitiva y eficiente, Hugo ha encontrado la clave para una organización efectiva. Ahora puede mantener un seguimiento claro de sus metas, recordatorios importantes y proyectos en un solo lugar. Únete a Hugo y descubre cómo nuestra webapp puede transformar tu productividad y simplificar tu vida diaria.</p>
-              <a href="enlace-a-tu-webapp" class="btn btn-primary">Prueba gratuita</a>
-            </div>
-          </div>
-          <div class="carousel-item">
-            <img src="assets/images/desordenado.png" alt="Persona desordenada" class="carousel-image">
-            <div class="carousel-caption">
-              <h3>¡Organiza tus tareas y proyectos con facilidad!</h3>
-              <p>Descubre nuestra webapp de post-it y simplifica tu vida diaria. Con nuestra herramienta intuitiva y versátil, podrás mantener tus ideas y tareas en orden, aumentar tu productividad y nunca más olvidar un detalle importante. ¡Pruébala ahora y experimenta una forma más eficiente de organizar tu trabajo y tus proyectos personales!</p>
-              <a href="enlace-a-tu-webapp" class="btn btn-primary">Comenzar ahora</a>
-            </div>
-          </div>
-          <div class="carousel-item">
-            <img class="d-block w-100" src="..." alt="Third slide">
-          </div>
-        </div>
-        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only">Next</span>
-        </a>
-      </div>
-    </div>
-    <div class="container">
         <div class="col-md-5 mx-auto">
             <h1 class="text-center"><span class="marca">¡</span>Organiza tus tareas de manera sencilla y gratuita con <span class="marca">Mipostit!</span></h1>
             <div class="text-justify">
@@ -202,6 +169,8 @@
         </div>
       </div>
     </div>
+    <!---->
+
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
   </body>
 </html>

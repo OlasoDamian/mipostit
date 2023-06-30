@@ -18,7 +18,6 @@
           Mipostit!
         </a>
       </div>
-<span class="marca logo">M!</span> 
       <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0 ">
         <li><a href="#" class="nav-link px-2 text-white">Inicio</a></li>
         <li><a href="#" class="nav-link px-2 text-white">Proyecto</a></li>
@@ -39,78 +38,76 @@
             </div>
         </div>
     </div>
-
-
     <div class="container">
-  <div class="row">
-    <div class="col-md-4">
-      <div class="card post-it shadow">
-      <div class="card-header">
-          <span class="material-icons close">disabled_by_default</span>
+      <div class="row">
+        <div class="col-md-4">
+          <div class="card post-it shadow">
+          <div class="card-header">
+              <span class="material-icons close">disabled_by_default</span>
+            </div>
+            <div class="card-body">
+              <h5 class="card-title"><strong>HTML:</strong></h5>
+              <p class="card-text">Utilizo HTML para estructurar y organizar el contenido de mi aplicación web. Con HTML, puedo definir la estructura de las páginas y los elementos que componen mi tablero Kanban con post-it virtuales.</p>
+            </div>
+          </div>
         </div>
-        <div class="card-body">
-          <h5 class="card-title"><strong>HTML:</strong></h5>
-          <p class="card-text">Utilizo HTML para estructurar y organizar el contenido de mi aplicación web. Con HTML, puedo definir la estructura de las páginas y los elementos que componen mi tablero Kanban con post-it virtuales.</p>
+        <div class="col-md-4">
+          <div class="card post-it shadow">
+          <div class="card-header">
+              <span class="material-icons close">disabled_by_default</span>
+            </div>
+            <div class="card-body">
+              <h5 class="card-title"><strong>CSS:</strong></h5>
+              <p class="card-text">Para dar estilo y personalizar la apariencia de Mipostit, utilizo CSS. Con CSS, puedo definir colores, fuentes, diseños y otros aspectos visuales para mejorar la presentación de mi aplicación.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card post-it shadow">
+            <div class="card-header">
+              <span class="material-icons close">disabled_by_default</span>
+            </div>
+            <div class="card-body">
+              <h5 class="card-title"><strong>Bootstrap:</strong></h5>
+              <p class="card-text">Estoy aprovechando el framework Bootstrap para facilitar el diseño y la responsividad de Mipostit. Bootstrap me brinda una serie de componentes y estilos predefinidos que puedo utilizar para crear interfaces atractivas y adaptativas.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card post-it shadow">
+            <div class="card-header">
+              <span class="material-icons close">disabled_by_default</span>
+            </div>
+            <div class="card-body">
+              <h5 class="card-title"><strong>JavaScript:</strong></h5>
+              <p class="card-text">Utilizo JavaScript para agregar interactividad y funcionalidad a mi aplicación web. Con JavaScript, puedo implementar características como arrastrar y soltar los post-it, guardar el estado de los tableros, y realizar acciones dinámicas en respuesta a la interacción del usuario.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card post-it shadow">
+            <div class="card-header">
+              <span class="material-icons close">disabled_by_default</span>
+            </div>
+            <div class="card-body">
+              <h5 class="card-title"><strong>PHP:</strong></h5>
+              <p class="card-text">Estoy utilizando MySQL como sistema de gestión de bases de datos relacional para almacenar y administrar la información de los post-it en mi proyecto Mipostit. MySQL me permite realizar consultas y operaciones eficientes en la base de datos, lo que garantiza un almacenamiento seguro y una recuperación rápida de los datos.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-4">
+          <div class="card post-it shadow">
+            <div class="card-header">
+              <span class="material-icons close">disabled_by_default</span>
+            </div>
+            <div class="card-body">
+              <h5 class="card-title"><strong>MySQL:</strong></h5>
+              <p class="card-text">Estoy utilizando MySQL como sistema de gestión de bases de datos relacional para almacenar y administrar la información de los post-it en mi proyecto Mipostit. MySQL me permite realizar consultas y operaciones eficientes en la base de datos, lo que garantiza un almacenamiento seguro y una recuperación rápida de los datos.</p>
+            </div>
+          </div>
         </div>
       </div>
     </div>
-    <div class="col-md-4">
-      <div class="card post-it shadow">
-      <div class="card-header">
-          <span class="material-icons close">disabled_by_default</span>
-        </div>
-        <div class="card-body">
-          <h5 class="card-title"><strong>CSS:</strong></h5>
-          <p class="card-text">Para dar estilo y personalizar la apariencia de Mipostit, utilizo CSS. Con CSS, puedo definir colores, fuentes, diseños y otros aspectos visuales para mejorar la presentación de mi aplicación.</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-md-4">
-      <div class="card post-it shadow">
-        <div class="card-header">
-          <span class="material-icons close">disabled_by_default</span>
-        </div>
-        <div class="card-body">
-          <h5 class="card-title"><strong>Bootstrap:</strong></h5>
-          <p class="card-text">Estoy aprovechando el framework Bootstrap para facilitar el diseño y la responsividad de Mipostit. Bootstrap me brinda una serie de componentes y estilos predefinidos que puedo utilizar para crear interfaces atractivas y adaptativas.</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-md-4">
-      <div class="card post-it shadow">
-        <div class="card-header">
-          <span class="material-icons close">disabled_by_default</span>
-        </div>
-        <div class="card-body">
-          <h5 class="card-title"><strong>JavaScript:</strong></h5>
-          <p class="card-text">Utilizo JavaScript para agregar interactividad y funcionalidad a mi aplicación web. Con JavaScript, puedo implementar características como arrastrar y soltar los post-it, guardar el estado de los tableros, y realizar acciones dinámicas en respuesta a la interacción del usuario.</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-md-4">
-      <div class="card post-it shadow">
-        <div class="card-header">
-          <span class="material-icons close">disabled_by_default</span>
-        </div>
-        <div class="card-body">
-          <h5 class="card-title"><strong>PHP:</strong></h5>
-          <p class="card-text">Estoy utilizando MySQL como sistema de gestión de bases de datos relacional para almacenar y administrar la información de los post-it en mi proyecto Mipostit. MySQL me permite realizar consultas y operaciones eficientes en la base de datos, lo que garantiza un almacenamiento seguro y una recuperación rápida de los datos.</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-md-4">
-      <div class="card post-it shadow">
-        <div class="card-header">
-          <span class="material-icons close">disabled_by_default</span>
-        </div>
-        <div class="card-body">
-          <h5 class="card-title"><strong>MySQL:</strong></h5>
-          <p class="card-text">Estoy utilizando MySQL como sistema de gestión de bases de datos relacional para almacenar y administrar la información de los post-it en mi proyecto Mipostit. MySQL me permite realizar consultas y operaciones eficientes en la base de datos, lo que garantiza un almacenamiento seguro y una recuperación rápida de los datos.</p>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
   </body>
 </html>
