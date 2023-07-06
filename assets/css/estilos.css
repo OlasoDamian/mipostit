@@ -4,6 +4,7 @@
 
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Rouge+Script&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&display=swap');
 header .nav{
     color: white !important;
@@ -17,43 +18,68 @@ header .nav{
     text-decoration: none;
     color: white;
 }
+.color-primario{
+    background-color: #FFC107 !important;
+}
+.color-secundario{
+    background-color: rgb(252, 252, 158);
+}
+.color-borde{
+  border: 2px solid #FFC107;
+  padding: 0px;
+  box-shadow: 10px 10px 15px #312e2e;
+}
+.modal-header{
+  border-radius: 0;
+  margin-left: 0px auto;
+  margin-right: 0px auto;
+  margin-top: 0px auto;
+  margin-bottom: 0px auto;
+}
 .post-it {
     background-color: rgb(255, 255, 96);
     border: 2px solid #FFC107;
     border-radius: 5px;
     margin-bottom: 20px;
-  }
+}
   
-  .card-header {
+.card-header {
     padding: 0.5rem;
     background-color: transparent;
-  }
+}
   
-  .close {
+.close {
     float: right;
     font-size: 1.5rem;
     font-weight: 700;
     line-height: 1;
     color: #000;
     opacity: 0.5;
-  }
+}
   
-  .close:hover {
+.close:hover {
     color: #000;
     opacity: 0.8;
-  }
+}
   
-  .card-title {
+.card-title {
     font-weight: bold;
-  }
+    font-size: 1.4rem;
+    font-family: 'Rouge Script', cursive;
+}
   
-  .card-text {
+.card-text {
     margin-bottom: 0;
-  }
-  .activo{
+    font-family: 'Rouge Script', cursive;
+    font-size: 1.2rem;
+}
+.activo{
     text-shadow: 1px 1px 2px #FFC107;
-  }
-  .close{
-    font-size: 2rem;
-  }
+}
 
+.titulo{
+  color:#000;
+  font-size: 2rem;
+  border-bottom: 2px solid #FFC107;
+
+}
